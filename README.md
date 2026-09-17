@@ -1,5 +1,3 @@
-Absolutely. Since this is for your **Mini Support Ticket Tracker** assessment, here's a clean README you can put directly into:
-
 ```text
 C:\Users\mathu\Downloads\project\README.md
 ```
